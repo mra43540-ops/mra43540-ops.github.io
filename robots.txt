@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mra43540-ops.github.io/sitemap.xml
